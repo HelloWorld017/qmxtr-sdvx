@@ -1,0 +1,49 @@
+{
+  "name": "qmxtr-sdvx",
+  "version": "1.0.0",
+  "description": "A set of SDVX effects",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloWorld017/qmxtr-volume.git"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "qmxtr"
+  ],
+  "author": "Khinenw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelloWorld017/qmxtr-sdvx/issues"
+  },
+  "homepage": "https://github.com/HelloWorld017/qmxtr-sdvx#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.0",
+    "babel-loader": "^6.4.1",
+    "babel-preset-env": "^1.3.3",
+    "css-loader": "^0.28.0",
+    "extract-text-webpack-plugin": "^2.1.0",
+    "file-loader": "^0.11.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.3",
+    "postcss-browser-reporter": "^0.5.0",
+    "postcss-cssnext": "^2.10.0",
+    "postcss-import": "^9.1.0",
+    "postcss-loader": "^1.3.3",
+    "postcss-reporter": "^3.0.0",
+    "postcss-url": "^5.1.2",
+    "vue-loader": "^11.3.4",
+    "vue-template-compiler": "^2.2.6",
+    "webpack": "^2.3.2"
+  },
+  "dependencies": {
+    "roboto-fontface": "^0.7.0",
+    "tunajs": "^1.0.0",
+    "vue-slider-component": "^2.2.6"
+  }
+}
