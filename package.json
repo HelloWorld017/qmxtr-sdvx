@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HelloWorld017/qmxtr-volume.git"
+    "url": "git+https://github.com/HelloWorld017/qmxtr-sdvx.git"
   },
   "scripts": {
     "start": "webpack --watch",
